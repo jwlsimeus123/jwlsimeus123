@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jwlsimeus123
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Azure Cloud Services
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me at jwsimeus@hotmail.com
 
 <!---
